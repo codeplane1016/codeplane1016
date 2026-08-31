@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Animated Senior Software and AI Engineer profile banner" />
+<img src="./assets/profile-header.svg?v=2" width="100%" alt="Animated Senior Software and AI Engineer profile banner" />
 
 </div>
 
