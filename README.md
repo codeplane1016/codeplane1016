@@ -25,16 +25,6 @@ Building production-ready software and intelligent systems from architecture to 
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/codeplane1016?tab=followers">
-  <img src="https://img.shields.io/github/followers/codeplane1016?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=codeplane1016&amp;style=for-the-badge&amp;color=2563eb" alt="Profile views" />
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
