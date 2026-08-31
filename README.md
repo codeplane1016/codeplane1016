@@ -197,27 +197,7 @@ with production concerns including authentication, observability, caching, laten
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeplane1016&amp;theme=tokyonight" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeplane1016&amp;theme=tokyonight" alt="Most used languages" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeplane1016&amp;theme=tokyonight" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
