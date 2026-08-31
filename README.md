@@ -184,6 +184,18 @@ with production concerns including authentication, observability, caching, laten
 
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codeplane1016/codeplane1016/output/github-contribution-grid-snake.svg" alt="Snake animation eating the GitHub contribution grid" />
+</picture>
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
