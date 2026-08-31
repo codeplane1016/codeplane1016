@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=codeplane1016&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Software%20and%20AI%20Engineer&amp;descAlignY=56&amp;descSize=21" width="100%" alt="Profile banner" />
+<img src="./assets/profile-header.svg" width="100%" alt="Animated codeplane1016 profile banner" />
 
 </div>
 
@@ -326,4 +326,4 @@ Good engineering is not just about making software work — it is about making s
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:2563EB,100:0F172A&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
+<img src="./assets/profile-footer.svg" width="100%" alt="Animated profile footer" />

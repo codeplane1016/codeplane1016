@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">codeplane1016 — Software and AI Engineer</title>
+  <desc id="desc">Animated futuristic developer profile banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#0b1739"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#60a5fa" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="330" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    .orbit { animation: orbit 13s linear infinite; transform-origin: 600px 165px; }
+    .orbit.reverse { animation-direction: reverse; animation-duration: 18s; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite alternate; }
+    .dash { stroke-dasharray: 8 18; animation: dash 9s linear infinite; }
+    .cursor { animation: blink .9s steps(2,end) infinite; }
+    .float { animation: float 4s ease-in-out infinite alternate; }
+    .scan { animation: scan 5s ease-in-out infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes pulse { to { opacity: .35; } }
+    @keyframes dash { to { stroke-dashoffset: -260; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes float { to { transform: translateY(-8px); } }
+    @keyframes scan { 0%,100% { transform: translateX(-500px); opacity: 0; } 40%,60% { opacity: .5; } 50% { transform: translateX(1200px); } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <circle cx="150" cy="80" r="250" fill="url(#orb)" class="pulse"/>
+    <circle cx="1080" cy="260" r="280" fill="url(#orb)" class="pulse" style="animation-delay:-1.2s"/>
+    <rect x="-500" y="0" width="240" height="330" fill="#67e8f9" opacity="0" class="scan"/>
+
+    <g fill="none" stroke="#22d3ee" stroke-opacity=".5">
+      <path d="M0 78H145L178 111H278" class="dash"/>
+      <path d="M1200 250H1050L1018 218H920" class="dash"/>
+      <path d="M80 292H245L275 262H365" class="dash"/>
+    </g>
+    <g fill="#67e8f9" filter="url(#glow)">
+      <circle cx="178" cy="111" r="4" class="pulse"/>
+      <circle cx="1018" cy="218" r="4" class="pulse"/>
+      <circle cx="275" cy="262" r="4" class="pulse"/>
+    </g>
+
+    <g class="orbit" fill="none" stroke="#818cf8" stroke-opacity=".32">
+      <ellipse cx="600" cy="165" rx="370" ry="118"/>
+      <circle cx="970" cy="165" r="5" fill="#c084fc" filter="url(#glow)"/>
+    </g>
+    <g class="orbit reverse" fill="none" stroke="#22d3ee" stroke-opacity=".22">
+      <ellipse cx="600" cy="165" rx="445" ry="145" transform="rotate(-8 600 165)"/>
+      <circle cx="155" cy="165" r="4" fill="#22d3ee" filter="url(#glow)"/>
+    </g>
+
+    <g class="float" font-family="Consolas,Monaco,monospace" font-size="16" fill="#67e8f9" opacity=".7">
+      <text x="68" y="155">&lt;build&gt;</text>
+      <text x="1035" y="105">AI.run()</text>
+      <text x="1010" y="295">{ scale: ∞ }</text>
+      <text x="88" y="235">01 10 11 01</text>
+    </g>
+
+    <g text-anchor="middle" font-family="Segoe UI,Inter,Arial,sans-serif">
+      <text x="600" y="135" fill="#94a3b8" font-size="15" letter-spacing="6">SOFTWARE • CLOUD • INTELLIGENCE</text>
+      <text x="600" y="202" fill="url(#accent)" font-size="58" font-weight="800" letter-spacing="1" filter="url(#glow)">codeplane1016</text>
+      <text x="600" y="245" fill="#e2e8f0" font-size="21" font-weight="500">Senior Software &amp; AI Engineer <tspan class="cursor" fill="#22d3ee">_</tspan></text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".45"/>
+    <path d="M410 294H790" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title">
+  <title id="title">Animated profile footer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#101b42"/><stop offset="1" stop-color="#050816"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .flow { stroke-dasharray: 10 22; animation: flow 7s linear infinite; }
+    .pulse { animation: pulse 1.8s ease-in-out infinite alternate; }
+    .pulse2 { animation: pulse 1.8s ease-in-out -1s infinite alternate; }
+    @keyframes flow { to { stroke-dashoffset: -320; } }
+    @keyframes pulse { to { opacity: .25; transform: scale(.72); } }
+  </style>
+  <rect width="1200" height="170" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".75">
+    <path d="M0 45H245L285 85H450L485 120H715L750 85H915L955 45H1200" class="flow"/>
+    <path d="M0 125H190L230 85H380M820 85H970L1010 125H1200" opacity=".35"/>
+  </g>
+  <g fill="#22d3ee" filter="url(#glow)">
+    <circle cx="285" cy="85" r="5" class="pulse" style="transform-origin:285px 85px"/>
+    <circle cx="485" cy="120" r="5" class="pulse2" style="transform-origin:485px 120px"/>
+    <circle cx="715" cy="120" r="5" class="pulse" style="transform-origin:715px 120px"/>
+    <circle cx="915" cy="85" r="5" class="pulse2" style="transform-origin:915px 85px"/>
+  </g>
+  <g text-anchor="middle" font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="600" y="72" fill="#e2e8f0" font-size="19" font-weight="600" letter-spacing="2">BUILD • LEARN • SHIP • REPEAT</text>
+    <text x="600" y="102" fill="#94a3b8" font-size="14">Thanks for visiting — let's create something remarkable.</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="168" rx="19" fill="none" stroke="url(#line)" stroke-opacity=".4"/>
+</svg>
