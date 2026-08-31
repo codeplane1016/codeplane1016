@@ -156,17 +156,29 @@ I build AI functionality as part of real production systems rather than isolated
 
 ## 🏗️ Engineering Expertise
 
-| Area                     | Experience                                                                   |
-| ------------------------ | ---------------------------------------------------------------------------- |
-| **Frontend Engineering** | React, Next.js, Vue, Nuxt, Angular, TypeScript, Tailwind CSS                 |
-| **Backend Engineering**  | Node.js, NestJS, Express, Python, FastAPI, Django, Java/Spring Boot, Laravel |
-| **AI Engineering**       | LLM integration, RAG, AI agents, embeddings, vector search, tool calling     |
-| **Databases**            | PostgreSQL, MySQL, MongoDB, Redis, Prisma, Supabase                          |
-| **Architecture**         | REST APIs, microservices, distributed systems, event-driven architecture     |
-| **Cloud**                | AWS, GCP, Vercel, Railway                                                    |
-| **DevOps**               | Docker, Kubernetes, GitHub Actions, CI/CD, Terraform, Linux                  |
-| **Security**             | OAuth2, JWT, RBAC, API security, authentication and authorization            |
-| **Performance**          | Caching, query optimization, API optimization, frontend performance          |
+### 🎨 Frontend Engineering
+
+React · Next.js · Vue · Nuxt · Angular · TypeScript · Tailwind CSS
+
+### ⚙️ Backend Engineering
+
+Node.js · NestJS · Express · Python · FastAPI · Django · Java · Spring Boot · Laravel
+
+### 🧠 AI Engineering
+
+LLM integration · RAG · AI agents · Embeddings · Vector search · Tool calling
+
+### 🏗️ Systems and Architecture
+
+REST APIs · Microservices · Distributed systems · Event-driven architecture · PostgreSQL · MySQL · MongoDB · Redis
+
+### ☁️ Cloud and DevOps
+
+AWS · GCP · Vercel · Railway · Docker · Kubernetes · GitHub Actions · CI/CD · Terraform · Linux
+
+### 🔐 Security and Performance
+
+OAuth2 · JWT · RBAC · API security · Caching · Query optimization · API optimization · Frontend performance
 
 ---
 
