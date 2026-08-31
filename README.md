@@ -39,7 +39,7 @@ Building production-ready software and intelligent systems from architecture to 
 
 ## 👨‍💻 About Me
 
-I'm **YOUR NAME**, a **Senior Software & AI Engineer** based in **YOUR LOCATION**, specializing in building scalable web platforms, backend systems, cloud infrastructure, and AI-powered applications.
+I'm a **Senior Software & AI Engineer** specializing in scalable web platforms, backend systems, cloud infrastructure, and AI-powered applications.
 
 I work across the full software development lifecycle — from system architecture and database design to frontend development, APIs, AI integration, infrastructure, deployment, testing, and performance optimization.
 
