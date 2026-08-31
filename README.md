@@ -168,9 +168,9 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=codeplane1016&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeplane1016&amp;theme=tokyonight" alt="GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeplane1016&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeplane1016&amp;theme=tokyonight" alt="Most used languages" />
 
 </div>
 
@@ -186,7 +186,7 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeplane1016&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeplane1016&amp;theme=tokyonight" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
