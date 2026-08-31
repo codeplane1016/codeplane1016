@@ -197,20 +197,6 @@ with production concerns including authentication, observability, caching, laten
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation eating the GitHub contribution grid" />
-</picture>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -291,6 +277,20 @@ Good engineering is not just about making software work — it is about making s
 ### Let's build software that solves real problems.
 
 <i>Software Engineering • Artificial Intelligence • Cloud Architecture</i>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codeplane1016/codeplane1016/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation eating the GitHub contribution grid" />
+</picture>
 
 </div>
 
