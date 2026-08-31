@@ -174,12 +174,6 @@ with production concerns including authentication, observability, caching, laten
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=codeplane1016&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
