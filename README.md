@@ -13,13 +13,11 @@
 
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Animated codeplane1016 profile banner" />
+<img src="./assets/profile-header.svg" width="100%" alt="Animated Senior Software and AI Engineer profile banner" />
 
 </div>
 
 <div align="center">
-
-### Senior Software & AI Engineer
 
 **Full-Stack Engineering • AI/LLM Systems • Cloud Architecture • Scalable Backend Systems**
 

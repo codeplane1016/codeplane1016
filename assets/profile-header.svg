@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">codeplane1016 — Software and AI Engineer</title>
+  <title id="title">I am a Senior Software and AI Engineer</title>
   <desc id="desc">Animated futuristic developer profile banner</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -24,6 +24,11 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <clipPath id="frame"><rect width="1200" height="330" rx="22"/></clipPath>
+    <clipPath id="typing">
+      <rect x="145" y="155" width="0" height="72">
+        <animate attributeName="width" values="0;910;910;0" keyTimes="0;0.58;0.88;1" dur="7s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
   </defs>
 
   <style>
@@ -78,9 +83,11 @@
 
     <g text-anchor="middle" font-family="Segoe UI,Inter,Arial,sans-serif">
       <text x="600" y="135" fill="#94a3b8" font-size="15" letter-spacing="6">SOFTWARE • CLOUD • INTELLIGENCE</text>
-      <text x="600" y="202" fill="url(#accent)" font-size="58" font-weight="800" letter-spacing="1" filter="url(#glow)">codeplane1016</text>
-      <text x="600" y="245" fill="#e2e8f0" font-size="21" font-weight="500">Senior Software &amp; AI Engineer <tspan class="cursor" fill="#22d3ee">_</tspan></text>
+      <text x="600" y="211" fill="url(#accent)" font-size="43" font-weight="800" letter-spacing=".5" filter="url(#glow)" clip-path="url(#typing)">I am a Senior Software &amp; AI Engineer</text>
     </g>
+    <rect x="145" y="169" width="4" height="52" rx="2" fill="#67e8f9" class="cursor" filter="url(#glow)">
+      <animate attributeName="x" values="145;1055;1055;145" keyTimes="0;0.58;0.88;1" dur="7s" repeatCount="indefinite" />
+    </rect>
 
     <rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".45"/>
     <path d="M410 294H790" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
