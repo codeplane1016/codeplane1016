@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=YOUR%20NAME&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26%20AI%20Engineer&descAlignY=56&descSize=21" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=YOUR%20NAME&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Software%20and%20AI%20Engineer&amp;descAlignY=56&amp;descSize=21" width="100%" alt="Profile banner" />
 
 </div>
 
@@ -30,10 +30,10 @@ Building production-ready software and intelligent systems from architecture to 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563eb" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=for-the-badge&amp;color=2563eb" alt="Profile views" />
 
 </div>
 
@@ -75,7 +75,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,php,cs&perline=8" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,php,cs&amp;perline=8" alt="Programming languages" />
 
 </div>
 
@@ -83,7 +83,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,html,css&perline=8" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,html,css&amp;perline=8" alt="Frontend technologies" />
 
 </div>
 
@@ -91,7 +91,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,laravel,spring,dotnet&perline=8" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,laravel,spring,dotnet&amp;perline=8" alt="Backend technologies" />
 
 </div>
 
@@ -99,7 +99,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma&perline=8" alt="Database technologies" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma&amp;perline=8" alt="Database technologies" />
 
 </div>
 
@@ -107,7 +107,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,vercel,linux&perline=8" alt="Cloud and DevOps technologies" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,vercel,linux&amp;perline=8" alt="Cloud and DevOps technologies" />
 
 </div>
 
@@ -115,7 +115,7 @@ I build AI functionality as part of real production systems rather than isolated
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,bash&perline=8" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,bash&amp;perline=8" alt="Development tools" />
 
 </div>
 
@@ -168,15 +168,15 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -186,7 +186,7 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -197,11 +197,11 @@ with production concerns including authentication, observability, caching, laten
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_ONE&theme=tokyonight&hide_border=true" alt="Featured project one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&amp;repo=YOUR_REPOSITORY_ONE&amp;theme=tokyonight&amp;hide_border=true" alt="Featured project one" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_TWO&theme=tokyonight&hide_border=true" alt="Featured project two" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&amp;repo=YOUR_REPOSITORY_TWO&amp;theme=tokyonight&amp;hide_border=true" alt="Featured project two" />
 </a>
 
 </div>
@@ -258,15 +258,15 @@ Good engineering is not just about making software work — it is about making s
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 
 <a href="https://YOUR_WEBSITE">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -281,4 +281,4 @@ Good engineering is not just about making software work — it is about making s
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:2563EB,100:0F172A&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
