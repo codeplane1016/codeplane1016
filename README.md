@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=YOUR%20NAME&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Software%20and%20AI%20Engineer&amp;descAlignY=56&amp;descSize=21" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=codeplane1016&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Software%20and%20AI%20Engineer&amp;descAlignY=56&amp;descSize=21" width="100%" alt="Profile banner" />
 
 </div>
 
@@ -29,11 +29,11 @@ Building production-ready software and intelligent systems from architecture to 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers" />
+<a href="https://github.com/codeplane1016?tab=followers">
+  <img src="https://img.shields.io/github/followers/codeplane1016?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub followers" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=for-the-badge&amp;color=2563eb" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=codeplane1016&amp;style=for-the-badge&amp;color=2563eb" alt="Profile views" />
 
 </div>
 
@@ -168,15 +168,15 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=codeplane1016&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeplane1016&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=codeplane1016&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -186,7 +186,7 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeplane1016&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -196,13 +196,7 @@ with production concerns including authentication, observability, caching, laten
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&amp;repo=YOUR_REPOSITORY_ONE&amp;theme=tokyonight&amp;hide_border=true" alt="Featured project one" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&amp;repo=YOUR_REPOSITORY_TWO&amp;theme=tokyonight&amp;hide_border=true" alt="Featured project two" />
-</a>
+Add your best repositories here after you have public projects to feature.
 
 </div>
 
@@ -261,7 +255,7 @@ Good engineering is not just about making software work — it is about making s
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bilokopitovartem505@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 
